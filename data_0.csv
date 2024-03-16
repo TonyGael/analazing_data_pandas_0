@@ -1,0 +1,149 @@
+ID,SEDE,SEXO,EDAD,EDAD_ACTUAL,NACIMIENTO,ZONA,TURNO,USO_UML,UML_PREVIO,PUNTAJE_UML,RUBRICAS,ESTRATEGIAS,COLABORATIVO,COMPLEJIDAD,ACOMPAÑAMIENTO,TIEMPO_ACTIVIDAD
+1,Buenos Aires,Masculino,22,22.40,10/26/2001,Centro,Noche,1,3,4,5,3,4,4,5,Menos de 10 horas
+2,Buenos Aires,Masculino,20,20.28,12/10/2003,Sur,Noche,1,3,5,4,4,5,3,3,Entre 11 y 15 horas
+3,Buenos Aires,Masculino,21,21.20,1/8/2003,Norte,Noche,1,2,4,3,3,3,2,5,Entre 11 y 15 horas
+4,Buenos Aires,Masculino,22,22.61,8/13/2001,Sur,Noche,1,1,5,5,1,3,2,4,Menos de 10 horas
+5,Buenos Aires,Masculino,22,22.18,1/16/2002,Norte,Noche,1,4,5,4,5,5,3,4,Menos de 10 horas
+6,Buenos Aires,Masculino,23,23.84,5/19/2000,Sur,Noche,1,1,4,4,4,5,3,5,Entre 11 y 15 horas
+7,Buenos Aires,Masculino,29,29.12,2/10/1995,Sur,Noche,1,2,4,3,3,5,3,5,Menos de 10 horas
+8,Buenos Aires,Masculino,23,23.27,12/15/2000,Sur,Mañana,1,3,5,5,5,5,4,5,Menos de 10 horas
+9,Buenos Aires,Masculino,21,21.71,7/6/2002,Sur,Noche,1,1,4,4,4,5,3,4,Menos de 10 horas
+10,Buenos Aires,Femenino,29,29.18,1/17/1995,Sur,Noche,1,2,4,4,3,4,4,5,Entre 11 y 15 horas
+11,Buenos Aires,Masculino,25,25.15,1/29/1999,Sur,Noche,1,1,3,4,4,4,4,5,Entre 11 y 15 horas
+12,Buenos Aires,Masculino,26,26.50,9/21/1997,Sur,Noche,1,1,4,2,2,3,5,3,Entre 11 y 15 horas
+13,Buenos Aires,Masculino,21,21.99,3/26/2002,Sur,Noche,1,2,5,4,4,5,3,3,Menos de 10 horas
+14,Buenos Aires,Masculino,20,20.49,9/23/2003,Sur,Noche,1,1,4,4,4,4,4,4,Menos de 10 horas
+15,Buenos Aires,Masculino,48,48.35,11/23/1975,Sur,Noche,1,2,4,4,4,4,4,5,Entre 11 y 15 horas
+16,Buenos Aires,Masculino,19,19.85,5/13/2004,Sur,Mañana,1,3,5,4,3,4,2,4,Menos de 10 horas
+17,Buenos Aires,Masculino,23,23.73,6/30/2000,Sur,Mañana,1,4,4,3,4,5,3,5,Entre 11 y 15 horas
+18,Buenos Aires,Masculino,20,20.45,10/10/2003,Sur,Mañana,1,3,4,4,1,5,2,3,Menos de 10 horas
+19,Buenos Aires,Femenino,19,19.92,4/20/2004,Sur,Mañana,1,1,5,5,4,4,2,5,Menos de 10 horas
+20,Buenos Aires,Masculino,24,24.11,2/10/2000,Sur,Mañana,1,3,4,3,3,5,3,4,Menos de 10 horas
+21,Buenos Aires,Masculino,20,20.05,3/1/2004,Sur,Mañana,1,3,4,4,3,4,4,4,Menos de 10 horas
+22,Buenos Aires,Masculino,24,24.99,3/27/1999,Centro,Noche,1,3,4,4,3,5,3,4,Menos de 10 horas
+23,Buenos Aires,Masculino,25,25.22,1/3/1999,Centro,Noche,1,3,3,3,3,5,3,4,Entre 11 y 15 horas
+24,Buenos Aires,Femenino,21,21.28,12/10/2002,Oeste,Noche,1,2,5,5,5,5,3,5,Entre 11 y 15 horas
+25,Buenos Aires,Masculino,20,20.73,6/29/2003,Oeste,Noche,1,4,4,3,3,5,3,2,Entre 11 y 15 horas
+26,Buenos Aires,Masculino,21,21.19,1/10/2003,Oeste,Noche,1,1,5,5,5,5,4,5,Entre 11 y 15 horas
+27,Buenos Aires,Masculino,20,20.44,10/13/2003,Oeste,Noche,1,4,4,3,5,5,3,2,Entre 11 y 15 horas
+28,Buenos Aires,Masculino,20,20.65,7/29/2003,Centro,Noche,1,4,4,4,3,5,3,5,Entre 11 y 15 horas
+29,Buenos Aires,Masculino,19,19.93,4/16/2004,Centro,Mañana,1,2,5,5,5,5,3,4,Menos de 10 horas
+30,Buenos Aires,Masculino,23,23.16,1/24/2001,Oeste,Noche,1,3,4,4,3,4,3,4,Menos de 10 horas
+31,Buenos Aires,Masculino,20,20.53,9/10/2003,Oeste,Noche,1,4,5,5,5,5,3,5,Menos de 10 horas
+32,Buenos Aires,Femenino,21,21.10,2/13/2003,Oeste,Noche,1,1,4,4,4,4,3,4,Entre 11 y 15 horas
+33,Buenos Aires,Masculino,19,19.73,6/28/2004,Oeste,Noche,1,3,5,5,4,5,3,5,Menos de 10 horas
+34,Buenos Aires,Masculino,20,20.56,8/29/2003,Oeste,Noche,1,4,5,4,4,5,3,5,Entre 11 y 15 horas
+35,Buenos Aires,Masculino,23,23.94,4/14/2000,Oeste,Noche,1,5,5,3,3,5,2,5,Menos de 10 horas
+36,Buenos Aires,Femenino,30,30.36,11/11/1993,Oeste,Noche,1,1,5,4,4,1,3,5,Entre 11 y 15 horas
+37,Buenos Aires,Masculino,19,19.91,4/23/2004,Centro,Noche,1,3,3,4,3,4,2,4,Menos de 10 horas
+38,Buenos Aires,Masculino,24,24.89,5/3/1999,Centro,Noche,1,1,1,2,1,5,3,4,Menos de 10 horas
+39,Buenos Aires,Masculino,21,21.75,6/20/2002,Centro,Noche,1,4,4,5,5,5,5,5,Entre 11 y 15 horas
+40,Buenos Aires,Masculino,20,20.96,4/6/2003,Centro,Noche,1,3,4,4,3,4,2,4,Menos de 10 horas
+41,Buenos Aires,Masculino,26,26.24,12/24/1997,Centro,Noche,1,3,3,4,3,5,4,5,Menos de 10 horas
+42,Buenos Aires,Masculino,19,19.86,5/12/2004,Centro,Noche,1,1,4,3,4,5,3,4,Entre 11 y 15 horas
+43,Buenos Aires,Femenino,20,20.46,10/5/2003,Centro,Mañana,1,4,4,5,4,5,2,4,Menos de 10 horas
+44,Buenos Aires,Masculino,20,20.41,10/24/2003,Centro,Mañana,1,4,4,2,2,4,3,5,Menos de 10 horas
+45,Buenos Aires,Masculino,20,20.66,7/24/2003,Centro,Mañana,1,2,4,3,2,5,3,5,Menos de 10 horas
+46,Buenos Aires,Masculino,21,21.32,11/24/2002,Centro,Mañana,1,4,5,4,4,4,3,4,Menos de 10 horas
+47,Buenos Aires,Masculino,20,20.41,10/25/2003,Centro,Mañana,1,1,5,5,3,5,2,5,Menos de 10 horas
+48,Buenos Aires,Masculino,20,20.34,11/17/2003,Centro,Mañana,1,2,4,4,3,4,2,4,Menos de 10 horas
+49,Buenos Aires,Masculino,21,21.84,5/18/2002,Centro,Mañana,1,4,4,5,3,5,2,5,Entre 11 y 15 horas
+50,Buenos Aires,Masculino,20,20.11,2/10/2004,Centro,Mañana,1,3,5,3,3,4,3,5,Menos de 10 horas
+51,Buenos Aires,Masculino,22,22.03,3/11/2002,Centro,Mañana,1,1,3,4,2,4,2,5,Menos de 10 horas
+52,Buenos Aires,Masculino,23,23.44,10/12/2000,Sur,Noche,1,3,4,5,5,5,3,5,Entre 11 y 15 horas
+53,Buenos Aires,Masculino,21,21.21,1/6/2003,Norte,Noche,1,3,5,5,5,4,3,4,Entre 11 y 15 horas
+54,Buenos Aires,Femenino,20,20.70,7/11/2003,Norte,Noche,1,4,5,5,5,5,3,5,Entre 11 y 15 horas
+55,Buenos Aires,Masculino,21,21.00,3/22/2003,Norte,Mañana,1,1,4,5,5,5,4,5,Menos de 10 horas
+56,Buenos Aires,Masculino,23,23.68,7/17/2000,Norte,Noche,1,1,4,3,3,5,4,5,Menos de 10 horas
+57,Buenos Aires,Masculino,34,34.51,9/21/1989,Norte,Noche,1,3,5,4,3,5,2,5,Entre 11 y 15 horas
+58,Buenos Aires,Masculino,19,19.88,5/3/2004,Norte,Noche,1,2,3,3,3,4,2,5,Menos de 10 horas
+59,Buenos Aires,Femenino,44,44.09,2/24/1980,Centro,Noche,1,3,3,3,4,4,3,5,Entre 11 y 15 horas
+60,Buenos Aires,Masculino,28,28.66,7/26/1995,Sur,Mañana,1,1,5,5,5,5,2,5,Más de 16 horas
+61,Buenos Aires,Masculino,20,20.82,5/27/2003,Sur,Mañana,1,3,4,4,4,5,3,5,Menos de 10 horas
+62,Buenos Aires,Masculino,21,21.89,5/2/2002,Sur,Mañana,1,1,3,4,2,5,4,5,Entre 11 y 15 horas
+63,Buenos Aires,Femenino,24,24.80,6/5/1999,Sur,Mañana,1,2,3,3,3,4,2,4,Menos de 10 horas
+64,Buenos Aires,Masculino,20,20.32,11/24/2003,Sur,Mañana,1,1,3,5,3,5,2,5,Menos de 10 horas
+65,Buenos Aires,Masculino,20,20.43,10/17/2003,Sur,Mañana,1,3,4,3,3,4,3,4,Menos de 10 horas
+66,Rosario,Masculino,26,26.14,1/30/1998,Lagos,Noche,1,2,3,3,3,4,2,5,Menos de 10 horas
+67,Rosario,Masculino,23,23.99,3/25/2000,Lagos,Noche,1,4,3,3,3,4,3,4,Entre 11 y 15 horas
+68,Buenos Aires,Masculino,25,25.77,6/15/1998,Centro,Noche,1,1,3,1,1,1,3,3,Entre 11 y 15 horas
+69,Buenos Aires,Femenino,25,25.65,7/28/1998,Centro,Noche,1,1,2,3,3,5,3,2,Menos de 10 horas
+70,Buenos Aires,Masculino,21,21.56,8/30/2002,Centro,Noche,1,1,4,4,4,3,3,4,Entre 11 y 15 horas
+71,Buenos Aires,Femenino,44,44.09,2/24/1980,Centro,Noche,1,1,2,3,3,3,3,5,Menos de 10 horas
+72,Buenos Aires,Masculino,20,20.46,10/6/2003,Centro,Noche,1,4,3,4,4,4,2,4,Menos de 10 horas
+73,Rosario,Masculino,32,32.41,10/25/1991,Lagos,Noche,1,3,4,4,4,4,4,5,Más de 16 horas
+74,Buenos Aires,Masculino,24,24.43,10/16/1999,Centro,Noche,1,1,4,4,3,5,2,5,Menos de 10 horas
+75,Buenos Aires,Masculino,22,22.64,8/2/2001,Centro,Noche,1,4,5,3,3,4,2,5,Menos de 10 horas
+76,Rosario,Masculino,45,45.08,2/28/1979,Lagos,Noche,1,1,5,5,5,5,4,5,Más de 16 horas
+77,Rosario,Masculino,23,23.50,9/20/2000,Lagos,Mañana,1,3,4,4,4,2,3,5,Menos de 10 horas
+78,Buenos Aires,Masculino,20,20.08,2/19/2004,Norte,Noche,2,3,5,4,4,5,3,5,Menos de 10 horas
+79,Buenos Aires,Masculino,20,20.70,7/8/2003,Sur,Mañana,2,3,4,4,3,5,3,4,Menos de 10 horas
+80,Buenos Aires,Masculino,33,33.79,6/8/1990,Sur,Mañana,2,2,4,4,4,4,3,3,Entre 11 y 15 horas
+81,Buenos Aires,Masculino,19,19.95,4/9/2004,Sur,Mañana,2,2,3,2,2,4,3,5,Entre 11 y 15 horas
+82,Buenos Aires,Femenino,30,30.61,8/12/1993,Centro,Noche,2,3,4,4,3,4,3,4,Menos de 10 horas
+83,Buenos Aires,Masculino,20,20.28,12/8/2003,Oeste,Noche,2,3,4,3,4,5,4,5,Menos de 10 horas
+84,Buenos Aires,Masculino,32,32.11,2/13/1992,Oeste,Noche,2,3,4,3,3,5,4,4,Más de 16 horas
+85,Buenos Aires,Masculino,22,22.67,7/20/2001,Oeste,Noche,2,3,4,4,2,4,3,3,Entre 11 y 15 horas
+86,Buenos Aires,Masculino,31,31.72,7/3/1992,Centro,Noche,2,2,4,4,3,4,4,4,Entre 11 y 15 horas
+87,Buenos Aires,Masculino,21,21.49,9/24/2002,Centro,Noche,2,2,4,4,3,4,2,4,Menos de 10 horas
+88,Buenos Aires,Masculino,19,19.87,5/6/2004,Centro,Mañana,2,1,4,5,4,4,2,5,Menos de 10 horas
+89,Buenos Aires,Masculino,20,20.56,8/29/2003,Norte,Noche,2,3,3,4,3,4,4,5,Menos de 10 horas
+90,Buenos Aires,Masculino,20,20.68,7/15/2003,Norte,Noche,2,2,3,4,4,4,3,5,Menos de 10 horas
+91,Buenos Aires,Masculino,21,21.12,2/8/2003,Norte,Noche,2,2,4,4,4,4,3,5,Entre 11 y 15 horas
+92,Buenos Aires,Masculino,19,19.86,5/11/2004,Sur,Mañana,2,2,5,4,4,3,3,5,Menos de 10 horas
+93,Buenos Aires,Masculino,30,30.11,2/11/1994,Centro,Noche,2,2,5,4,4,5,3,4,Menos de 10 horas
+94,Rosario,Masculino,26,26.71,7/6/1997,Lagos,Noche,2,3,5,5,3,4,3,5,Menos de 10 horas
+95,Rosario,Masculino,27,27.91,4/25/1996,Lagos,Noche,2,2,2,3,3,4,3,4,Menos de 10 horas
+96,Buenos Aires,Femenino,20,20.97,4/1/2003,Centro,Noche,2,2,4,4,4,5,2,5,Menos de 10 horas
+97,Buenos Aires,Masculino,40,40.64,8/7/1983,Sur,Noche,3,3,5,4,4,4,4,5,Menos de 10 horas
+98,Buenos Aires,Femenino,19,19.80,6/3/2004,Sur,Noche,3,3,4,5,3,5,1,3,Menos de 10 horas
+99,Buenos Aires,Masculino,20,20.57,8/25/2003,Sur,Noche,3,3,4,4,4,5,3,4,Menos de 10 horas
+100,Buenos Aires,Masculino,19,19.83,5/22/2004,Sur,Noche,3,3,4,4,3,4,2,4,Entre 11 y 15 horas
+101,Buenos Aires,Masculino,20,20.60,8/14/2003,Sur,Mañana,3,2,4,3,4,4,2,3,Menos de 10 horas
+102,Buenos Aires,Femenino,20,20.62,8/6/2003,Sur,Mañana,3,3,5,4,4,4,3,4,Menos de 10 horas
+103,Buenos Aires,Masculino,23,23.57,8/25/2000,Centro,Noche,3,3,4,4,3,3,3,5,Entre 11 y 15 horas
+104,Buenos Aires,Masculino,20,20.62,8/7/2003,Oeste,Noche,3,4,2,2,1,3,2,2,Más de 16 horas
+105,Buenos Aires,Masculino,25,25.94,4/15/1998,Oeste,Noche,3,3,2,1,2,3,3,3,Entre 11 y 15 horas
+106,Buenos Aires,Masculino,25,25.89,5/3/1998,Oeste,Noche,3,4,5,4,4,5,4,5,Menos de 10 horas
+107,Buenos Aires,Masculino,21,21.78,6/9/2002,Centro,Noche,3,3,2,2,2,5,2,3,Menos de 10 horas
+108,Buenos Aires,Masculino,27,27.06,2/28/1997,Centro,Noche,3,3,2,5,1,3,2,5,Menos de 10 horas
+109,Buenos Aires,Masculino,42,42.07,3/3/1982,Centro,Noche,3,2,3,4,2,4,2,5,Menos de 10 horas
+110,Buenos Aires,Femenino,42,42.67,7/24/1981,Centro,Noche,3,1,4,5,3,4,2,5,Menos de 10 horas
+111,Buenos Aires,Femenino,24,24.84,5/21/1999,Centro,Noche,3,4,4,4,3,5,2,4,Entre 11 y 15 horas
+112,Buenos Aires,Masculino,31,31.45,10/10/1992,Centro,Noche,3,4,5,5,4,5,3,5,Menos de 10 horas
+113,Buenos Aires,Femenino,20,20.41,10/23/2003,Centro,Mañana,3,4,2,5,1,5,1,2,Entre 11 y 15 horas
+114,Buenos Aires,Masculino,27,27.37,11/7/1996,Centro,Mañana,3,4,3,4,4,5,3,3,Menos de 10 horas
+115,Buenos Aires,Femenino,21,21.42,10/18/2002,Centro,Mañana,3,2,3,3,3,2,3,3,Menos de 10 horas
+116,Buenos Aires,Masculino,20,20.27,12/15/2003,Centro,Mañana,3,3,4,3,2,3,4,3,Menos de 10 horas
+117,Buenos Aires,Femenino,21,21.73,6/30/2002,Centro,Mañana,3,3,5,5,4,5,4,5,Menos de 10 horas
+118,Buenos Aires,Masculino,23,23.57,8/27/2000,Centro,Mañana,3,3,5,5,4,5,3,5,Menos de 10 horas
+119,Buenos Aires,Masculino,22,22.11,2/9/2002,Norte,Noche,3,2,4,4,4,4,3,3,Menos de 10 horas
+120,Buenos Aires,Masculino,23,23.29,12/7/2000,Sur,Mañana,3,4,4,5,4,5,2,4,Menos de 10 horas
+121,Buenos Aires,Masculino,20,20.71,7/5/2003,Sur,Mañana,3,2,4,4,4,5,3,4,Entre 11 y 15 horas
+122,Rosario,Masculino,28,28.05,3/6/1996,Lagos,Noche,3,4,5,3,3,4,2,5,Entre 11 y 15 horas
+123,Buenos Aires,Masculino,20,20.81,5/30/2003,Centro,Noche,3,4,3,3,3,5,2,3,Entre 11 y 15 horas
+124,Buenos Aires,Femenino,20,20.53,9/9/2003,Oeste,Noche,3,4,5,5,3,4,2,5,Menos de 10 horas
+125,Buenos Aires,Femenino,44,44.09,2/24/1980,Centro,Noche,3,3,3,3,3,3,3,3,Entre 11 y 15 horas
+126,Buenos Aires,Masculino,48,48.23,1/5/1976,Sur,Noche,4,4,5,4,4,4,3,4,Menos de 10 horas
+127,Buenos Aires,Femenino,20,20.62,8/6/2003,Sur,Mañana,4,3,5,4,4,4,3,4,Menos de 10 horas
+128,Buenos Aires,Femenino,23,23.48,9/27/2000,Oeste,Noche,4,3,5,3,4,5,2,4,Menos de 10 horas
+129,Buenos Aires,Masculino,31,31.06,3/1/1993,Oeste,Noche,4,4,4,4,4,4,4,5,Entre 11 y 15 horas
+130,Buenos Aires,Femenino,19,19.83,5/22/2004,Centro,Mañana,4,5,4,5,2,5,1,3,Entre 11 y 15 horas
+131,Buenos Aires,Masculino,20,20.23,12/28/2003,Centro,Mañana,4,3,5,5,5,5,4,5,Entre 11 y 15 horas
+132,Buenos Aires,Masculino,19,19.98,3/30/2004,Centro,Mañana,4,4,4,4,3,5,3,4,Entre 11 y 15 horas
+133,Buenos Aires,Masculino,25,25.78,6/12/1998,Centro,Mañana,4,1,4,4,3,5,3,5,Menos de 10 horas
+134,Buenos Aires,Masculino,20,20.80,6/3/2003,Centro,Mañana,4,4,4,5,4,5,2,4,Entre 11 y 15 horas
+135,Rosario,Femenino,24,24.71,7/6/1999,Lagos,Noche,4,3,5,3,3,5,3,5,Entre 11 y 15 horas
+136,Rosario,Masculino,21,21.39,10/30/2002,Lagos,Noche,4,3,4,5,5,5,4,4,Entre 11 y 15 horas
+137,Rosario,Masculino,22,22.09,2/17/2002,Lagos,Noche,4,4,3,3,3,3,3,4,Entre 11 y 15 horas
+138,Buenos Aires,Masculino,32,32.65,7/31/1991,Centro,Noche,4,4,4,4,4,4,4,4,Más de 16 horas
+139,Buenos Aires,Masculino,32,32.78,6/15/1991,Centro,Noche,4,4,4,3,4,4,4,4,Menos de 10 horas
+140,Buenos Aires,Masculino,25,25.92,4/21/1998,Sur,Noche,5,1,4,4,4,5,3,4,Menos de 10 horas
+141,Buenos Aires,Masculino,25,25.08,2/23/1999,Sur,Noche,5,5,5,5,5,5,5,5,Menos de 10 horas
+142,Buenos Aires,Masculino,21,21.05,3/4/2003,Centro,Mañana,5,4,4,4,4,4,1,4,Menos de 10 horas
+143,Buenos Aires,Masculino,22,22.30,12/1/2001,Centro,Mañana,5,4,4,4,3,4,3,4,Entre 11 y 15 horas
+144,Buenos Aires,Masculino,20,20.03,3/10/2004,Norte,Noche,5,2,3,3,4,5,3,5,Entre 11 y 15 horas
+145,Buenos Aires,Femenino,25,25.83,5/25/1998,Centro,Mañana,1,5,5,3,3,5,2,5,Entre 11 y 15 horas
+146,Rosario,Femenino,19,19.84,5/19/2004,Lagos,Mañana,2,2,4,4,5,5,4,5,Entre 11 y 15 horas
+147,Rosario,Masculino,24,24.16,1/24/2000,Lagos,Noche,1,3,4,4,3,4,3,4,Entre 11 y 15 horas
+148,Rosario,Masculino,22,22.03,3/10/2002,Lagos,Mañana,1,2,4,4,4,5,2,3,Entre 11 y 15 horas
