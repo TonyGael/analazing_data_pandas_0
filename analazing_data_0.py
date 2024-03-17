@@ -45,3 +45,38 @@ print('df.info() nos muestra información sobre el DataFrame, incluyendo el tipo
 print(df.info())
 
 # Selección de datos
+print('------------------------------------------------------------------')
+print('__________________________________________________________________')
+print('Se puede seleccionar columnas específicas '
+      'utilizando la notación de corchetes o el método: '
+      'df[["column_x"], ["column_y"]]')
+print(df[['motor_speed', 'torque']])
+
+# Agrupación y resumen
+print('------------------------------------------------------------------')
+print('__________________________________________________________________')
+print('df.groupby("columna_x").mean() agrupa los datos por los valores '
+      'únicos de una columna y calcula la media para cada grupo')
+# print(df.groupby('torque').median()) #  CORREGIR ERROR DE PRESENTACION
+
+print('------------------------------------------------------------------')
+print('__________________________________________________________________')
+print('POdemos filtrar filas utilizando operaciones lógicas:'
+      'df[df[columna_x] > valor]')
+print(df[df['motor_speed'] < 0])
+
+# Manejo de valores nulos
+print('------------------------------------------------------------------')
+print('__________________________________________________________________')
+print('df.isnull() nos devuelve un datafeame booleano indicando que valores son nulos')
+print(df.isnull())
+
+print('------------------------------------------------------------------')
+print('__________________________________________________________________')
+print('df.dropna() elimina las filas con estos valores nulos')
+print(df.dropna())
+
+print('------------------------------------------------------------------')
+print('__________________________________________________________________')
+print('df.fillna("valor") rellena los valores nulos con un valor específico')
+print(df.fillna('COMPLETAR'))
